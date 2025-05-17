@@ -1,3 +1,7 @@
+body{
+  background-image: url('./assets/background_img_2.jpg');
+  color: aqua;
+}
 .App {
   text-align: center;
 }
